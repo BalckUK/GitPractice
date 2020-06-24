@@ -9,6 +9,7 @@ public class HomeController {
 	@RequestMapping("/")
 	public String home() {
 		return "home";
+		//작업 코드
 	}
 	
 }
